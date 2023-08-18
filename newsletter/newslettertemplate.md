@@ -1,4 +1,4 @@
-# ZecWeekly (Epsiode Number)
+# ZecWeekly (Epsiode 56)
 
 Headline text
 
